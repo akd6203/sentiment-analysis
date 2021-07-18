@@ -1,5 +1,5 @@
 # sentiment-analysis
-
+In this repository, I am going to perform sentiment analysis on food reviews dataset step by step.
 <!-- wp:image {"id":109,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://cwadtech.files.wordpress.com/2021/07/sentiment-analysis-scaled-1.jpg?w=1024" alt="" class="wp-image-109"/></figure>
 <!-- /wp:image -->
